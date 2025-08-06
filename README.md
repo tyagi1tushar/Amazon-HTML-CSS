@@ -4,7 +4,6 @@ This is a frontend clone of the Amazon homepage built by me using HTML and CSS. 
 
 🚀 Features
 
-	•	✅ Responsive Layout – The design adapts to different screen sizes using flexible layouts and media queries.
 	•	🖼️ Header with Navigation – Includes the Amazon logo, search bar, location selector, account options, orders, and cart.
 	•	🔍 Search Bar – Styled search bar with category selection and search icon.
 	•	🛍️ Product Categories – Horizontal scrollable menu of shopping categories similar to Amazon’s homepage.
