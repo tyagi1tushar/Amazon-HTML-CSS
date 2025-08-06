@@ -13,10 +13,12 @@ This is a frontend clone of the Amazon homepage built by me using HTML and CSS. 
 	•	🦶 Footer Section – Multi-column footer with navigation links, languages, region settings, and copyright.
 
 🛠️ Technologies Used
+
 	•	HTML5 – For the structure and semantics of the page.
 	•	CSS3 – For styling, layout, responsiveness, and UI effects.
 
 💡 What I Learned
+
 	•	How to structure a complex webpage using semantic HTML.
 	•	Advanced CSS techniques like Flexbox and Grid.
 	•	Creating visually consistent UI components.
